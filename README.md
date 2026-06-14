@@ -19,7 +19,7 @@ python-dotenv
 
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/your-username/linkedin-scraper-api.git
+git clone https://github.com/Umar-Qadri-850/linkedin-scraper-api.git
 cd linkedin-scraper-api
   # Windows
 3. Install dependencies
